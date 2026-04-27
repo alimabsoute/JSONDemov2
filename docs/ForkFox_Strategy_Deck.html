@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ForkFox Strategy Deck</title>
+  <style>
+    :root {
+      --fox-orange: #f26d21;
+      --fox-orange-soft: #ff9a3d;
+      --ink: #171a21;
+      --charcoal: #222733;
+      --fog: #f7f8fb;
+      --muted: #9aa3b2;
+      --green: #2ca67a;
+      --red: #d84f4f;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      background: radial-gradient(circle at top right, #2c3242, #151922 45%, #11141a 100%);
+      color: #fff;
+      line-height: 1.35;
+    }
+    .deck { width: 100%; }
+    .slide {
+      min-height: 100vh;
+      padding: 60px 72px;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      display: grid;
+      grid-template-rows: auto auto 1fr auto;
+      gap: 20px;
+    }
+    .kicker {
+      color: var(--fox-orange-soft);
+      font-weight: 700;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      font-size: 12px;
+    }
+    h1, h2 { margin: 0; }
+    h1 { font-size: 56px; line-height: 1.05; max-width: 980px; }
+    h2 { font-size: 40px; line-height: 1.08; }
+    .subtitle { color: #d6dceb; font-size: 22px; max-width: 960px; }
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+    .card {
+      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.03));
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 14px;
+      padding: 18px;
+      box-shadow: 0 12px 24px rgba(0,0,0,.25);
+    }
+    .card h3 { margin: 0 0 8px 0; font-size: 20px; color: #fff; }
+    .card p, .card li { color: #e9edf8; font-size: 17px; }
+    .metric {
+      font-size: 40px;
+      font-weight: 800;
+      color: var(--fox-orange-soft);
+    }
+    ul { margin: 0; padding-left: 20px; }
+    .tag {
+      display: inline-block;
+      background: rgba(242,109,33,.18);
+      border: 1px solid rgba(242,109,33,.38);
+      color: #ffd8b8;
+      border-radius: 999px;
+      padding: 6px 10px;
+      margin: 4px 6px 0 0;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .footer { color: var(--muted); font-size: 13px; }
+    .wire {
+      background: #0f1218;
+      border: 1px solid #32384a;
+      border-radius: 12px;
+      padding: 12px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      color: #dae1f0;
+      font-size: 13px;
+      white-space: pre-wrap;
+    }
+    .good { color: var(--green); font-weight: 700; }
+    .bad { color: var(--red); font-weight: 700; }
+    @media print {
+      .slide { page-break-after: always; min-height: auto; }
+      body { background: #fff; color: #111; }
+      .card { box-shadow: none; }
+    }
+  </style>
+</head>
+<body>
+  <main class="deck">
+    <section class="slide">
+      <div class="kicker">ForkFox Strategic Deck · April 27, 2026</div>
+      <h1>Outsmart any menu.<br>Then help operators out-execute competitors dish by dish.</h1>
+      <div class="subtitle">Integrated business portal roadmap + GTM operating plan aligned to your current pipeline constraints and launch cadence.</div>
+      <div>
+        <span class="tag">Dish-level intelligence</span>
+        <span class="tag">Operator monetization</span>
+        <span class="tag">Explainable scoring</span>
+        <span class="tag">Actionable growth tools</span>
+      </div>
+      <div class="footer">Brand styling inspired by forkfox.ai visual system: dark base, warm fox-orange accents, clean data-first cards.</div>
+    </section>
+
+    <section class="slide">
+      <div class="kicker">Situation</div>
+      <h2>What happened in the pipeline and why it’s fixable</h2>
+      <div class="grid-2">
+        <div class="card">
+          <h3>Root cause</h3>
+          <p>Scheduling ran before OG image deploy completion, causing platform-time asset validation failures.</p>
+          <p class="bad">Not a strategy issue — an orchestration issue.</p>
+        </div>
+        <div class="card">
+          <h3>Recovery pattern</h3>
+          <p>Ignore unsupported tier endpoints, re-submit fresh posts after URL health checks return 200 OK, and use idempotency records to prevent duplicate sends.</p>
+          <p class="good">Bottleneck removed once Vercel assets were live.</p>
+        </div>
+      </div>
+      <div class="grid-3">
+        <div class="card"><div class="metric">13×2</div><p>Posts pending in recovered batch flow.</p></div>
+        <div class="card"><div class="metric">45m</div><p>Stagger cadence across channels.</p></div>
+        <div class="card"><div class="metric">0→1</div><p>Move from fragile scripts to reliable publish-gated pipeline.</p></div>
+      </div>
+      <div class="footer">Immediate fix: asset pre-check + durable schedule ledger + rerun-safe orchestration.</div>
+    </section>
+
+    <section class="slide">
+      <div class="kicker">Vision</div>
+      <h2>Business Portal framing: Strategic Intelligence, not day trading</h2>
+      <div class="grid-3">
+        <div class="card"><h3>Drift</h3><p>Track score direction and competitive movement across periodic scrapes.</p></div>
+        <div class="card"><h3>Anomalies</h3><p>Alert only when risk spikes (e.g., severe review events), not constant noisy updates.</p></div>
+        <div class="card"><h3>Action</h3><p>Convert insights into revenue via coupons, placements, response workflows, and social assets.</p></div>
+      </div>
+      <div class="footer">North-star outcomes: retention, monetization, and marketplace quality lift.</div>
+    </section>
+
+    <section class="slide">
+      <div class="kicker">Roadmap</div>
+      <h2>Gate plan: What to build now vs next</h2>
+      <div class="grid-2">
+        <div class="card">
+          <h3>Gate 1 (Week 1–2)</h3>
+          <ul>
+            <li>Command Center with YoY pulse + strengths/risks</li>
+            <li>Competitor snapshot + gap-to-leader</li>
+            <li>Social badge generator + exports</li>
+            <li>Pipeline hardening and idempotency table</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Gate 2 (Week 3–5)</h3>
+          <ul>
+            <li>Coupon Factory with redemption attribution</li>
+            <li>Self-serve placement bidder + eligibility checks</li>
+            <li>Enhanced competitor battle map</li>
+            <li>Anomaly alerting engine (email/SMS/slack/webhook)</li>
+          </ul>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3>Gate 3 (Week 6–9)</h3>
+          <ul><li>Sentiment deep-dive + driver decomposition</li><li>Multi-location rollups</li><li>Task workflows + weekly digests</li><li>API/Webhook exports</li></ul>
+        </div>
+        <div class="card">
+          <h3>Gate 4 (Q2+)</h3>
+          <ul><li>Predictive performance forecasts</li><li>Intervention recommendation engine</li><li>Budget optimization</li><li>Network benchmarks</li></ul>
+        </div>
+      </div>
+      <div class="footer">Each gate mapped to measurable acceptance criteria and KPI progression.</div>
+    </section>
+
+    <section class="slide">
+      <div class="kicker">Wireframes</div>
+      <h2>Portal UI concepts by function</h2>
+      <div class="grid-2">
+        <div class="wire">COMMAND CENTER
+Anchor Dish Health: 78/100
+YoY Sentiment: +15%
+Driver: Wait-time mentions -22%
+Top Strengths | Top Risks
+Quick Actions:
+[Badge] [At-Risk Reviews] [Export]</div>
+        <div class="wire">COMPETITOR MAP
+You: #2 Best Ramen (14 days held)
+Gap: -6 Meat Quality | +12 Atmosphere
+2mi / 5mi rings
+Event Feed: competitor menu launch</div>
+      </div>
+      <div class="grid-2">
+        <div class="wire">GROWTH TOOLS
+Coupon Factory (eligible)
+Placement Bidder (eligible)
+Badge Studio (5 templates)
+Schedule pack to channels</div>
+        <div class="wire">SENTIMENT LAB
+Bubble: Frequency x Sentiment
+Winner: Noodle texture
+Warning: Friday dinner noise
+Recommendations: staffing/menu/social</div>
+      </div>
+      <div class="footer">Build from the existing sentiment engine + dish score foundation; sequence for time-to-value.</div>
+    </section>
+
+    <section class="slide">
+      <div class="kicker">GTM</div>
+      <h2>Channel tactics by objective</h2>
+      <div class="grid-2">
+        <div class="card">
+          <h3>Owned + Lifecycle</h3>
+          <ul>
+            <li>Split CTA pathways: Diners vs Restaurants</li>
+            <li>Operator onboarding sequence (5 emails)</li>
+            <li>Weekly “what changed / why / what now” digest</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Social</h3>
+          <ul>
+            <li>LinkedIn: B2B proof and operator plays</li>
+            <li>IG/TikTok: dish discovery and city micro-guides</li>
+            <li>X: build-in-public + launch velocity</li>
+            <li>Pinterest: evergreen city/cuisine cards</li>
+          </ul>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="card"><h3>Partnerships</h3><ul><li>10–20 operator pilots per city</li><li>Creator co-marketing by cuisine</li><li>Hospitality tech integration paths</li></ul></div>
+        <div class="card"><h3>Paid (post-retention baseline)</h3><ul><li>Meta city tests for consumer growth</li><li>LinkedIn lead gen for demos</li><li>Search capture for intent traffic</li></ul></div>
+      </div>
+      <div class="footer">Spend and scaling gated by activation, retention, and CAC payback.</div>
+    </section>
+
+    <section class="slide">
+      <div class="kicker">Execution</div>
+      <h2>14-day sprint and KPI stack</h2>
+      <div class="grid-3">
+        <div class="card"><h3>Days 1–3</h3><p>Ship Command Center skeleton, health checks, idempotency ledger, badge templates.</p></div>
+        <div class="card"><h3>Days 4–7</h3><p>Competitor snapshot, weekly digest launch, first B2B site section.</p></div>
+        <div class="card"><h3>Days 8–14</h3><p>Coupon pilot, anomaly alerts, operator walkthroughs, backlog for Gate 2.</p></div>
+      </div>
+      <div class="grid-2">
+        <div class="card"><h3>Primary KPIs</h3><ul><li>WAO</li><li>Time-to-first-insight</li><li>Quick-action conversion</li><li>Coupon redemption lift</li></ul></div>
+        <div class="card"><h3>Investor line</h3><p>“Yelp tells you that you’re losing customers. ForkFox tells you which dish is losing them and how to win them back.”</p></div>
+      </div>
+      <div class="footer">Next artifacts: 1-page exec brief + narrated demo + pilot case studies.</div>
+    </section>
+  </main>
+</body>
+</html>
