@@ -1,0 +1,1568 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 3468 >>
+stream
+q
+0.100 0.110 0.130 rg
+Q
+BT
+/F1 11 Tf
+q
+0.950 0.440 0.120 rg
+0 774 612 18 re f
+Q
+BT
+/F2 11 Tf
+54 779 Td
+(ForkFox  Full Detailed Strategy Plan) Tj
+ET
+BT
+/F1 9 Tf
+518 779 Td
+(1) Tj
+ET
+BT
+/F1 11 Tf
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 710 Td
+(FORKFOX MASTER PLAN: BUSINESS PORTAL + GO-TO-MARKET + CHANNEL TACTICS) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 686 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 668 Td
+(0\) EXECUTIVE READ: WHAT?S GOING ON RIGHT NOW) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 644 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 626 Td
+(OPERATIONAL REALITY \(FROM THE CC LOGS/CONTEXT\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 602 Tm
+(  ? You had a sequencing failure, not a strategy failure: social scheduling fired before OG) Tj
+1 0 0 1 54 587 Tm
+(    image deploy completion.) Tj
+1 0 0 1 54 572 Tm
+(  ? Facebook failed early because it validates image URLs at schedule-time; Pinterest) Tj
+1 0 0 1 54 557 Tm
+(    tolerated deferred validation.) Tj
+1 0 0 1 54 542 Tm
+(  ? Recovery pattern that worked: ignore unsupported Ayrshare retry/delete flows on your) Tj
+1 0 0 1 54 527 Tm
+(    plan tier, and re-submit fresh posts after Vercel served `200 OK` on OG assets.) Tj
+1 0 0 1 54 512 Tm
+(  ? Current state \(per your context\): 13 articles  2 channels = 26 pending scheduled posts,) Tj
+1 0 0 1 54 497 Tm
+(    with lockfiles protecting against duplicate scheduling.) Tj
+1 0 0 1 54 482 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 464 Td
+(STRATEGIC IMPLICATION) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 440 Tm
+(  ? Your issue was pipeline orchestration reliability, not content-market fit.) Tj
+1 0 0 1 54 425 Tm
+(  ? Immediate corrective product need: **publish gating** \(only schedule once asset health) Tj
+1 0 0 1 54 410 Tm
+(    checks pass\) + **idempotent scheduling ledger** \(not just lockfiles\).) Tj
+1 0 0 1 54 395 Tm
+() Tj
+1 0 0 1 54 380 Tm
+(---) Tj
+1 0 0 1 54 365 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 347 Td
+(1\) WHAT I REVIEWED ON FORKFOX.AI \(AND HOW TO USE IT IN MARKETING\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 323 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 305 Td
+(POSITIONING THAT IS ALREADY STRONG) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 281 Tm
+(  ? Core thesis is clear and differentiated: **"They rank restaurants. We rank what you) Tj
+1 0 0 1 54 266 Tm
+(    actually eat."**) Tj
+1 0 0 1 54 251 Tm
+(  ? Narrative consistency across homepage, algorithm section, and support copy: dish-level) Tj
+1 0 0 1 54 236 Tm
+(    scoring, personalized ranking, explainability \(spider chart\), and city expansion.) Tj
+1 0 0 1 54 221 Tm
+(  ? Tangible product proof: iOS beta framing, dish/city counts, clear use-case examples.) Tj
+1 0 0 1 54 206 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 188 Td
+(TRUST SIGNALS ALREADY PRESENT) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 164 Tm
+(  ? Patent-pending claim repeated.) Tj
+1 0 0 1 54 149 Tm
+(  ? Clear privacy/support pages and plain-language data policy.) Tj
+1 0 0 1 54 134 Tm
+(  ? Explicit no-sale/no-ad-network language in privacy copy.) Tj
+1 0 0 1 54 119 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 101 Td
+(GAPS TO TIGHTEN FOR GROWTH CONVERSION) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 77 Tm
+(1. **Proof density gap**: Add stronger public evidence blocks \(before/after restaurant) Tj
+1 0 0 1 54 62 Tm
+(outcomes, sample leaderboard deltas, retention stats\).) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 3121 >>
+stream
+q
+0.100 0.110 0.130 rg
+Q
+BT
+/F1 11 Tf
+q
+0.950 0.440 0.120 rg
+0 774 612 18 re f
+Q
+BT
+/F2 11 Tf
+54 779 Td
+(ForkFox  Full Detailed Strategy Plan) Tj
+ET
+BT
+/F1 9 Tf
+518 779 Td
+(2) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 54 713 Tm
+(2. **B2B bridge gap**: Consumer site says little about a restaurant-facing portal) Tj
+1 0 0 1 54 698 Tm
+(opportunity.) Tj
+1 0 0 1 54 683 Tm
+(3. **CTA depth gap**: ?Join Beta? is clear, but follow-up journey could segment users by) Tj
+1 0 0 1 54 668 Tm
+(role \(consumer vs owner/operator\).) Tj
+1 0 0 1 54 653 Tm
+(4. **Market education gap**: Explainability is strong, but onboarding should quickly teach) Tj
+1 0 0 1 54 638 Tm
+(why dish-level scoring changes owner behavior and campaign ROI.) Tj
+1 0 0 1 54 623 Tm
+() Tj
+1 0 0 1 54 608 Tm
+(---) Tj
+1 0 0 1 54 593 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 575 Td
+(2\) PRODUCT STRATEGY FOR THE BUSINESS PORTAL \(STRATEGIC INTELLIGENCE, NOT DAY-TRADING\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 551 Tm
+() Tj
+1 0 0 1 54 536 Tm
+(Because scrapes are not daily, the portal should center on:) Tj
+1 0 0 1 54 521 Tm
+(1. **Drift over tick data** \(directional intelligence\),) Tj
+1 0 0 1 54 506 Tm
+(2. **Anomaly alerts** \(urgent exceptions\),) Tj
+1 0 0 1 54 491 Tm
+(3. **Action modules** that convert insight into revenue \(coupons, placements, social) Tj
+1 0 0 1 54 476 Tm
+(assets\).) Tj
+1 0 0 1 54 461 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 443 Td
+(NORTH STAR OUTCOMES) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 419 Tm
+(  ? Increase operator retention via ?I know what improved and why.?) Tj
+1 0 0 1 54 404 Tm
+(  ? Increase monetization via self-serve paid tools.) Tj
+1 0 0 1 54 389 Tm
+(  ? Increase marketplace quality by rewarding high-performing dishes and operators.) Tj
+1 0 0 1 54 374 Tm
+() Tj
+1 0 0 1 54 359 Tm
+(---) Tj
+1 0 0 1 54 344 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 326 Td
+(3\) BUILD ROADMAP BY GATE \(WHAT TO BUILD THIS WEEK ? GATE 4\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 302 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 284 Td
+(GATE 1 \(WEEK 1?2\): MVP THAT DELIVERS IMMEDIATE UTILITY) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 260 Tm
+(**Goal:** Ship value quickly with minimal engineering risk.) Tj
+1 0 0 1 54 245 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 227 Td
+(BUILD THIS WEEK) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 203 Tm
+(1. **Command Center \(read-only intelligence + 2 actions\)**) Tj
+1 0 0 1 54 188 Tm
+(  ? Anchor Dish Health score + last refresh timestamp.) Tj
+1 0 0 1 54 173 Tm
+(  ? YoY momentum card from sentiment engine \(e.g., +15% YoY with top driver\).) Tj
+1 0 0 1 54 158 Tm
+(  ? ?Top 3 risk factors? and ?Top 3 strengths.?) Tj
+1 0 0 1 54 143 Tm
+(2. **Basic Competitor Snapshot**) Tj
+1 0 0 1 54 128 Tm
+(  ? You vs top 3 competitors on core attributes.) Tj
+1 0 0 1 54 113 Tm
+(  ? Gap-to-leader metric by dish category.) Tj
+1 0 0 1 54 98 Tm
+(3. **Quick Actions \(fast wins\)**) Tj
+1 0 0 1 54 83 Tm
+(  ? Social badge generator \(3 templates\).) Tj
+1 0 0 1 54 68 Tm
+(  ? Exportable summary \(PDF/email card\) for weekly ops meetings.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 3031 >>
+stream
+q
+0.100 0.110 0.130 rg
+Q
+BT
+/F1 11 Tf
+q
+0.950 0.440 0.120 rg
+0 774 612 18 re f
+Q
+BT
+/F2 11 Tf
+54 779 Td
+(ForkFox  Full Detailed Strategy Plan) Tj
+ET
+BT
+/F1 9 Tf
+518 779 Td
+(3) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 54 713 Tm
+(4. **Pipeline Hardening \(must-have\)**) Tj
+1 0 0 1 54 698 Tm
+(  ? Pre-schedule asset validator \(OG URL health check\).) Tj
+1 0 0 1 54 683 Tm
+(  ? Idempotent scheduling table \(`post_key`, platform, scheduled_at, status\).) Tj
+1 0 0 1 54 668 Tm
+(  ? Retry model that avoids unsupported endpoints.) Tj
+1 0 0 1 54 653 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 635 Td
+(GATE 1 ACCEPTANCE CRITERIA) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 611 Tm
+(  ? Owner logs in and gets 3 clear recommendations in under 30 seconds.) Tj
+1 0 0 1 54 596 Tm
+(  ? One-click share asset exported successfully.) Tj
+1 0 0 1 54 581 Tm
+(  ? No duplicate schedules across reruns.) Tj
+1 0 0 1 54 566 Tm
+() Tj
+1 0 0 1 54 551 Tm
+(---) Tj
+1 0 0 1 54 536 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 518 Td
+(GATE 2 \(WEEK 3?5\): REVENUE TOOLS + BETTER DIAGNOSTICS) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 494 Tm
+(**Goal:** Move from intelligence dashboard to ROI-producing workflow.) Tj
+1 0 0 1 54 479 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 461 Td
+(FEATURES) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 437 Tm
+(1. **Coupon Factory**) Tj
+1 0 0 1 54 422 Tm
+(  ? Rules-based templates tied to score thresholds.) Tj
+1 0 0 1 54 407 Tm
+(  ? Example: ?Free drink with any 90+ dish order.?) Tj
+1 0 0 1 54 392 Tm
+(  ? Track redemption code + attributable lift.) Tj
+1 0 0 1 54 377 Tm
+(2. **Placement Management \(self-serve\)**) Tj
+1 0 0 1 54 362 Tm
+(  ? Eligibility checks \(quality floor, review volume, policy compliance\).) Tj
+1 0 0 1 54 347 Tm
+(  ? Suggested bid ranges from category competition.) Tj
+1 0 0 1 54 332 Tm
+(3. **Competitor Battle Map \(enhanced\)**) Tj
+1 0 0 1 54 317 Tm
+(  ? 2mi / 5mi radius snapshot.) Tj
+1 0 0 1 54 302 Tm
+(  ? ?Position held for X days? metric.) Tj
+1 0 0 1 54 287 Tm
+(  ? Event markers \(?competitor launched spring menu?\).) Tj
+1 0 0 1 54 272 Tm
+(4. **Alerting Engine v1**) Tj
+1 0 0 1 54 257 Tm
+(  ? Anomaly-only notifications \(e.g., high-risk sentiment spike\).) Tj
+1 0 0 1 54 242 Tm
+(  ? Configurable severity and channel \(email/SMS/slack/webhook\).) Tj
+1 0 0 1 54 227 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 209 Td
+(GATE 2 ACCEPTANCE CRITERIA) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 185 Tm
+(  ? At least one monetizable action \(coupon or placement\) can be launched without manual) Tj
+1 0 0 1 54 170 Tm
+(    ops.) Tj
+1 0 0 1 54 155 Tm
+(  ? Alert triage reduces ?time-to-owner-awareness? below 1 hour for critical events.) Tj
+1 0 0 1 54 140 Tm
+() Tj
+1 0 0 1 54 125 Tm
+(---) Tj
+1 0 0 1 54 110 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 92 Td
+(GATE 3 \(WEEK 6?9\): PRO INTELLIGENCE + TEAM WORKFLOWS) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 68 Tm
+(**Goal:** Make the portal sticky for multi-location operators and agencies.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 2912 >>
+stream
+q
+0.100 0.110 0.130 rg
+Q
+BT
+/F1 11 Tf
+q
+0.950 0.440 0.120 rg
+0 774 612 18 re f
+Q
+BT
+/F2 11 Tf
+54 779 Td
+(ForkFox  Full Detailed Strategy Plan) Tj
+ET
+BT
+/F1 9 Tf
+518 779 Td
+(4) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 54 713 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 695 Td
+(FEATURES) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 671 Tm
+(1. **Sentiment Deep Dive \(your proprietary engine\)**) Tj
+1 0 0 1 54 656 Tm
+(  ? Scatter plot \(frequency  sentiment\).) Tj
+1 0 0 1 54 641 Tm
+(  ? Driver decomposition \(?wait time down 22% drove +15% score delta?\).) Tj
+1 0 0 1 54 626 Tm
+(  ? Theme cohorts by meal period/daypart.) Tj
+1 0 0 1 54 611 Tm
+(2. **Multi-location rollups**) Tj
+1 0 0 1 54 596 Tm
+(  ? Portfolio health view.) Tj
+1 0 0 1 54 581 Tm
+(  ? Location variance and top outliers.) Tj
+1 0 0 1 54 566 Tm
+(3. **Tasking + workflow notes**) Tj
+1 0 0 1 54 551 Tm
+(  ? Assign follow-ups \(?Chef: improve broth consistency this week?\).) Tj
+1 0 0 1 54 536 Tm
+(  ? Weekly summary digest with action statuses.) Tj
+1 0 0 1 54 521 Tm
+(4. **API/Webhook exports**) Tj
+1 0 0 1 54 506 Tm
+(  ? Push key metrics to BI tools / CRM / ad systems.) Tj
+1 0 0 1 54 491 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 473 Td
+(GATE 3 ACCEPTANCE CRITERIA) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 449 Tm
+(  ? Weekly owner review can run entirely from portal exports + workflows.) Tj
+1 0 0 1 54 434 Tm
+(  ? At least 2 stakeholder roles \(operator + marketer\) actively use portal weekly.) Tj
+1 0 0 1 54 419 Tm
+() Tj
+1 0 0 1 54 404 Tm
+(---) Tj
+1 0 0 1 54 389 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 371 Td
+(GATE 4 \(QUARTER 2+\): OPTIMIZATION FLYWHEEL + MARKETPLACE ADVANTAGE) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 347 Tm
+(**Goal:** Build defensibility and pricing power.) Tj
+1 0 0 1 54 332 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 314 Td
+(FEATURES) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 290 Tm
+(1. **Predictive forecasts**) Tj
+1 0 0 1 54 275 Tm
+(  ? ?If wait-time mentions improve 10%, expected score lift = X.?) Tj
+1 0 0 1 54 260 Tm
+(2. **Recommendation engine for interventions**) Tj
+1 0 0 1 54 245 Tm
+(  ? Menu, staffing, and service suggestions ranked by impact.) Tj
+1 0 0 1 54 230 Tm
+(3. **Budget optimizer**) Tj
+1 0 0 1 54 215 Tm
+(  ? Allocation suggestions across placements, coupons, and social channels.) Tj
+1 0 0 1 54 200 Tm
+(4. **Benchmark network intelligence**) Tj
+1 0 0 1 54 185 Tm
+(  ? Anonymous category benchmarks by city/cuisine/daypart.) Tj
+1 0 0 1 54 170 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 152 Td
+(GATE 4 ACCEPTANCE CRITERIA) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 128 Tm
+(  ? Portal can attribute revenue impact to specific actions with confidence intervals.) Tj
+1 0 0 1 54 113 Tm
+(  ? Expansion to premium/enterprise tiers justified by measurable lift.) Tj
+1 0 0 1 54 98 Tm
+() Tj
+1 0 0 1 54 83 Tm
+(---) Tj
+1 0 0 1 54 68 Tm
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 4002 >>
+stream
+q
+0.100 0.110 0.130 rg
+Q
+BT
+/F1 11 Tf
+q
+0.950 0.440 0.120 rg
+0 774 612 18 re f
+Q
+BT
+/F2 11 Tf
+54 779 Td
+(ForkFox  Full Detailed Strategy Plan) Tj
+ET
+BT
+/F1 9 Tf
+518 779 Td
+(5) Tj
+ET
+BT
+/F1 11 Tf
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 710 Td
+(4\) WIREFRAMES BY FUNCTION AND PHASE) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 686 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 668 Td
+(A\) COMMAND CENTER \(GATE 1\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 644 Tm
+() Tj
+1 0 0 1 54 629 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 614 Tm
+(| ForkFox Business Portal                                     Last refresh: 3d    |) Tj
+1 0 0 1 54 599 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 584 Tm
+(| Anchor Dish Health: 78/100   [Trend: +4.2 vs last scrape]   [Status: Stable]    |) Tj
+1 0 0 1 54 569 Tm
+(| YoY Sentiment: +15% \(Apr 2026 vs Apr 2025\)                                       |) Tj
+1 0 0 1 54 554 Tm
+(| Primary Driver: Wait-time mentions -22%                                          |) Tj
+1 0 0 1 54 539 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 524 Tm
+(| Top Strengths                     | Top Risks                                    |) Tj
+1 0 0 1 54 509 Tm
+(| - Noodle texture \(+\)              | - Friday dinner noise \(rising\)              |) Tj
+1 0 0 1 54 494 Tm
+(| - Flavor consistency \(+\)          | - Portion value complaints \(+11%\)           |) Tj
+1 0 0 1 54 479 Tm
+(| - Service friendliness \(+\)        | - Late-night prep speed \(-\)                 |) Tj
+1 0 0 1 54 464 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 449 Tm
+(| Quick Actions: [Generate Social Badge] [Respond to At-Risk Reviews] [Export PDF] |) Tj
+1 0 0 1 54 434 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 419 Tm
+() Tj
+1 0 0 1 54 404 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 386 Td
+(B\) COMPETITOR DASHBOARD / BATTLE MAP \(GATE 1?2\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 362 Tm
+() Tj
+1 0 0 1 54 347 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 332 Tm
+(| Competitive Position \(2mi / 5mi\)                   Last competitive scrape: 3d  |) Tj
+1 0 0 1 54 317 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 302 Tm
+(| You: #2 Best Ramen \(held 14 days\)                                              |) Tj
+1 0 0 1 54 287 Tm
+(| Leader Gap: -6 on Meat Quality | +12 on Atmosphere                             |) Tj
+1 0 0 1 54 272 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 257 Tm
+(| Radar Compare: You vs Competitor A vs Competitor B                              |) Tj
+1 0 0 1 54 242 Tm
+(| [Taste] [Value] [Service] [Wait Time] [Consistency]                             |) Tj
+1 0 0 1 54 227 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 212 Tm
+(| Event Feed                                                                     |) Tj
+1 0 0 1 54 197 Tm
+(| - Competitor Y launched Spring Special menu                                    |) Tj
+1 0 0 1 54 182 Tm
+(| - Competitor B ratings dipped in dinner hour                                   |) Tj
+1 0 0 1 54 167 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 152 Tm
+() Tj
+1 0 0 1 54 137 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 119 Td
+(C\) GROWTH TOOLS HUB \(GATE 2\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 95 Tm
+() Tj
+1 0 0 1 54 80 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 65 Tm
+(| Growth Tools                                                                    |) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 4098 >>
+stream
+q
+0.100 0.110 0.130 rg
+Q
+BT
+/F1 11 Tf
+q
+0.950 0.440 0.120 rg
+0 774 612 18 re f
+Q
+BT
+/F2 11 Tf
+54 779 Td
+(ForkFox  Full Detailed Strategy Plan) Tj
+ET
+BT
+/F1 9 Tf
+518 779 Td
+(6) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 54 713 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 698 Tm
+(| Coupon Factory                         | Placement Bidder                        |) Tj
+1 0 0 1 54 683 Tm
+(| Eligible: Yes \(Quality 92\)             | Eligible: Yes \(Org score 85 vs med 78\) |) Tj
+1 0 0 1 54 668 Tm
+(| [Create Offer]                         | [Bid for Carte Placement]               |) Tj
+1 0 0 1 54 653 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 638 Tm
+(| Badge Studio                                                                  |) Tj
+1 0 0 1 54 623 Tm
+(| Templates: Modern / Minimal / Traditional / Street / Premium                  |) Tj
+1 0 0 1 54 608 Tm
+(| [Generate Asset Pack] [Schedule to FB/Pinterest/IG]                           |) Tj
+1 0 0 1 54 593 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 578 Tm
+() Tj
+1 0 0 1 54 563 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 545 Td
+(D\) SENTIMENT INTELLIGENCE LAB \(GATE 3\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 521 Tm
+() Tj
+1 0 0 1 54 506 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 491 Tm
+(| Sentiment Intelligence \(Pro\)                                                   |) Tj
+1 0 0 1 54 476 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 461 Tm
+(| Bubble Plot: Frequency vs Sentiment                                            |) Tj
+1 0 0 1 54 446 Tm
+(| Winner: Noodle Texture \(high freq, high sentiment\)                             |) Tj
+1 0 0 1 54 431 Tm
+(| Warning: Friday Dinner Noise \(rising freq, low sentiment\)                      |) Tj
+1 0 0 1 54 416 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 401 Tm
+(| Driver Decomposition                                                            |) Tj
+1 0 0 1 54 386 Tm
+(| +15% YoY overall improvement due to:                                            |) Tj
+1 0 0 1 54 371 Tm
+(| - Wait time improvements \(41%\)                                                  |) Tj
+1 0 0 1 54 356 Tm
+(| - Service consistency \(27%\)                                                     |) Tj
+1 0 0 1 54 341 Tm
+(| - Plate temperature quality \(13%\)                                               |) Tj
+1 0 0 1 54 326 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 311 Tm
+(| Recommended Actions: [Staffing Plan] [Menu Copy Update] [Social Narrative]     |) Tj
+1 0 0 1 54 296 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 281 Tm
+() Tj
+1 0 0 1 54 266 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 248 Td
+(E\) MULTI-LOCATION PORTFOLIO \(GATE 3\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 224 Tm
+() Tj
+1 0 0 1 54 209 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 194 Tm
+(| Portfolio Health: 8 locations                                                   |) Tj
+1 0 0 1 54 179 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 164 Tm
+(| Avg Dish Health: 81 \(+3\)  | Highest: Rittenhouse | Risk: University City        |) Tj
+1 0 0 1 54 149 Tm
+(| Location variance: 14 pts \(target <10\)                                          |) Tj
+1 0 0 1 54 134 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 119 Tm
+(| Table: location | health | YoY | risk index | open tasks                         |) Tj
+1 0 0 1 54 104 Tm
+(+--------------------------------------------------------------------------------+) Tj
+1 0 0 1 54 89 Tm
+() Tj
+1 0 0 1 54 74 Tm
+() Tj
+1 0 0 1 54 59 Tm
+(---) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Length 2981 >>
+stream
+q
+0.100 0.110 0.130 rg
+Q
+BT
+/F1 11 Tf
+q
+0.950 0.440 0.120 rg
+0 774 612 18 re f
+Q
+BT
+/F2 11 Tf
+54 779 Td
+(ForkFox  Full Detailed Strategy Plan) Tj
+ET
+BT
+/F1 9 Tf
+518 779 Td
+(7) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 54 713 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 695 Td
+(5\) END-TO-END MARKETING STRATEGY \(INTEGRATED WITH PRODUCT GATES\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 671 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 653 Td
+(BRAND NARRATIVE \(SINGLE SENTENCE\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 629 Tm
+(**ForkFox helps diners choose better dishes and helps restaurants improve what actually) Tj
+1 0 0 1 54 614 Tm
+(drives repeat business ? dish by dish.**) Tj
+1 0 0 1 54 599 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 581 Td
+(MESSAGING PILLARS) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 557 Tm
+(1. **Precision over averages** \(dish-level vs restaurant stars\).) Tj
+1 0 0 1 54 542 Tm
+(2. **Explainability** \(score anatomy, not black-box outputs\).) Tj
+1 0 0 1 54 527 Tm
+(3. **Actionability** \(what to do next to improve\).) Tj
+1 0 0 1 54 512 Tm
+(4. **Outcome focus** \(better dining choices + measurable operator lift\).) Tj
+1 0 0 1 54 497 Tm
+() Tj
+1 0 0 1 54 482 Tm
+(---) Tj
+1 0 0 1 54 467 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 449 Td
+(6\) CHANNEL TACTICS \(WHAT TO DO BY CHANNEL\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 425 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 407 Td
+(A\) OWNED CHANNELS) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 380 Td
+(WEBSITE) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 356 Tm
+(  ? Add B2B nav entry: ?For Restaurants.?) Tj
+1 0 0 1 54 341 Tm
+(  ? Add dual CTA fork: ?Join Beta \(Diners\)? vs ?Request Business Demo.?) Tj
+1 0 0 1 54 326 Tm
+(  ? Add proof blocks: operator outcomes, sample dashboard screenshots, benchmark snippets.) Tj
+1 0 0 1 54 311 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 293 Td
+(EMAIL LIFECYCLE) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 269 Tm
+(  ? **Diner onboarding:** 3-email sequence \(how scores work, personalized tips, invite to) Tj
+1 0 0 1 54 254 Tm
+(    share\).) Tj
+1 0 0 1 54 239 Tm
+(  ? **Operator onboarding:** 5-email sequence \(dashboard walkthrough, quick wins, first) Tj
+1 0 0 1 54 224 Tm
+(    campaign template\).) Tj
+1 0 0 1 54 209 Tm
+(  ? Weekly digest: ?What changed since last scrape + what to do next.?) Tj
+1 0 0 1 54 194 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 176 Td
+(IN-APP) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 152 Tm
+(  ? Highlight ?why this changed? for every major score movement.) Tj
+1 0 0 1 54 137 Tm
+(  ? Contextual prompts to launch coupons/badges when thresholds met.) Tj
+1 0 0 1 54 122 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 104 Td
+(B\) SOCIAL CHANNELS) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 77 Td
+(LINKEDIN \(B2B AUTHORITY\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+ET
+endstream
+endobj
+10 0 obj
+<< /Length 3030 >>
+stream
+q
+0.100 0.110 0.130 rg
+Q
+BT
+/F1 11 Tf
+q
+0.950 0.440 0.120 rg
+0 774 612 18 re f
+Q
+BT
+/F2 11 Tf
+54 779 Td
+(ForkFox  Full Detailed Strategy Plan) Tj
+ET
+BT
+/F1 9 Tf
+518 779 Td
+(8) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 54 713 Tm
+(  ? 3 posts/week:) Tj
+1 0 0 1 54 698 Tm
+(  ? Dish-vs-restaurant insight snapshots,) Tj
+1 0 0 1 54 683 Tm
+(  ? ?Operator play of the week,?) Tj
+1 0 0 1 54 668 Tm
+(  ? Short case breakdowns with metric deltas.) Tj
+1 0 0 1 54 653 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 635 Td
+(INSTAGRAM + TIKTOK \(CONSUMER DISCOVERY\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 611 Tm
+(  ? 4?5 short-form posts/week:) Tj
+1 0 0 1 54 596 Tm
+(  ? Side-by-side ?same stars, different dishes,?) Tj
+1 0 0 1 54 581 Tm
+(  ? City micro-guides,) Tj
+1 0 0 1 54 566 Tm
+(  ? Community ?best plate under $15? challenges.) Tj
+1 0 0 1 54 551 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 533 Td
+(X/TWITTER \(THOUGHT LEADERSHIP + PRODUCT VELOCITY\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 509 Tm
+(  ? Build-in-public threads on algorithm explainability, city launches, and data stories.) Tj
+1 0 0 1 54 494 Tm
+(  ? Weekly founder thread: 1 market insight + 1 product update + 1 CTA.) Tj
+1 0 0 1 54 479 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 461 Td
+(PINTEREST \(EVERGREEN INTENT\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 437 Tm
+(  ? Maintain scheduled ?city dish cards,? ?budget picks,? and cuisine boards.) Tj
+1 0 0 1 54 422 Tm
+(  ? Pair each pin with long-tail keywords and city/cuisine taxonomy.) Tj
+1 0 0 1 54 407 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 389 Td
+(C\) PARTNERSHIPS & FIELD GROWTH) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 365 Tm
+(  ? Pilot with 10?20 restaurants per launch city.) Tj
+1 0 0 1 54 350 Tm
+(  ? Co-marketing with food creators \(dish challenge series by cuisine\).) Tj
+1 0 0 1 54 335 Tm
+(  ? Hospitality-tech integrations \(reservation/waitlist POS-adjacent partnerships\).) Tj
+1 0 0 1 54 320 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 302 Td
+(D\) PAID ACQUISITION \(AFTER BASELINE RETENTION\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 278 Tm
+(  ? Small-budget experiments:) Tj
+1 0 0 1 54 263 Tm
+(  ? Meta/IG for city-level consumer acquisition,) Tj
+1 0 0 1 54 248 Tm
+(  ? LinkedIn lead-gen forms for operator demos,) Tj
+1 0 0 1 54 233 Tm
+(  ? Branded search + competitor search on Google.) Tj
+1 0 0 1 54 218 Tm
+(  ? Keep spend gated by CAC payback targets and activation metrics.) Tj
+1 0 0 1 54 203 Tm
+() Tj
+1 0 0 1 54 188 Tm
+(---) Tj
+1 0 0 1 54 173 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 155 Td
+(7\) KPI FRAMEWORK BY GATE) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 131 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 113 Td
+(GATE 1 KPIS) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 89 Tm
+(  ? Business portal weekly active operators \(WAO\).) Tj
+1 0 0 1 54 74 Tm
+(  ? Time-to-first-insight \(<30s target\).) Tj
+1 0 0 1 54 59 Tm
+(  ? Quick action conversion rate \(badge export, review response\).) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Length 2701 >>
+stream
+q
+0.100 0.110 0.130 rg
+Q
+BT
+/F1 11 Tf
+q
+0.950 0.440 0.120 rg
+0 774 612 18 re f
+Q
+BT
+/F2 11 Tf
+54 779 Td
+(ForkFox  Full Detailed Strategy Plan) Tj
+ET
+BT
+/F1 9 Tf
+518 779 Td
+(9) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 54 713 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 695 Td
+(GATE 2 KPIS) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 671 Tm
+(  ? Coupon launch rate + redemption lift.) Tj
+1 0 0 1 54 656 Tm
+(  ? Placement participation rate + incremental CTR/bookings.) Tj
+1 0 0 1 54 641 Tm
+(  ? Critical alert response time.) Tj
+1 0 0 1 54 626 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 608 Td
+(GATE 3 KPIS) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 584 Tm
+(  ? Multi-seat account retention.) Tj
+1 0 0 1 54 569 Tm
+(  ? Action completion rate from recommendations.) Tj
+1 0 0 1 54 554 Tm
+(  ? Lift attribution confidence for intervention categories.) Tj
+1 0 0 1 54 539 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 521 Td
+(GATE 4 KPIS) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 497 Tm
+(  ? Forecast accuracy bands.) Tj
+1 0 0 1 54 482 Tm
+(  ? Revenue attributed to optimized spend recommendations.) Tj
+1 0 0 1 54 467 Tm
+(  ? Expansion revenue \(Pro/Enterprise\).) Tj
+1 0 0 1 54 452 Tm
+() Tj
+1 0 0 1 54 437 Tm
+(---) Tj
+1 0 0 1 54 422 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 404 Td
+(8\) IMMEDIATE 14-DAY TACTICAL SPRINT) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 380 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 362 Td
+(DAYS 1?3) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 338 Tm
+(  ? Ship Gate 1 Command Center UI skeleton.) Tj
+1 0 0 1 54 323 Tm
+(  ? Add post-schedule health checks and idempotency ledger.) Tj
+1 0 0 1 54 308 Tm
+(  ? Build 3 social badge templates.) Tj
+1 0 0 1 54 293 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 275 Td
+(DAYS 4?7) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 251 Tm
+(  ? Launch competitor snapshot + basic gap analysis.) Tj
+1 0 0 1 54 236 Tm
+(  ? Launch weekly digest email with "what changed / why / what to do".) Tj
+1 0 0 1 54 221 Tm
+(  ? Publish first B2B landing section on site.) Tj
+1 0 0 1 54 206 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 188 Td
+(DAYS 8?10) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 164 Tm
+(  ? Pilot Coupon Factory with a rules template.) Tj
+1 0 0 1 54 149 Tm
+(  ? Configure anomaly alerts for high-severity review clusters.) Tj
+1 0 0 1 54 134 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 116 Td
+(DAYS 11?14) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 92 Tm
+(  ? Run 5-operator pilot walkthroughs.) Tj
+1 0 0 1 54 77 Tm
+(  ? Capture testimonials + outcome metrics.) Tj
+1 0 0 1 54 62 Tm
+(  ? Prepare Gate 2 implementation backlog from live feedback.) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Length 2196 >>
+stream
+q
+0.100 0.110 0.130 rg
+Q
+BT
+/F1 11 Tf
+q
+0.950 0.440 0.120 rg
+0 774 612 18 re f
+Q
+BT
+/F2 11 Tf
+54 779 Td
+(ForkFox  Full Detailed Strategy Plan) Tj
+ET
+BT
+/F1 9 Tf
+518 779 Td
+(10) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 54 713 Tm
+() Tj
+1 0 0 1 54 698 Tm
+(---) Tj
+1 0 0 1 54 683 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 665 Td
+(9\) INVESTOR/BOARD NARRATIVE \(TIGHT\)) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 641 Tm
+() Tj
+1 0 0 1 54 626 Tm
+(1. **Problem:** Restaurant-level stars are too coarse to drive operational improvement.) Tj
+1 0 0 1 54 611 Tm
+(2. **Insight:** Dish-level quality intelligence is more predictive of choice and repeat) Tj
+1 0 0 1 54 596 Tm
+(behavior.) Tj
+1 0 0 1 54 581 Tm
+(3. **Product:** Consumer ranking + business intelligence portal.) Tj
+1 0 0 1 54 566 Tm
+(4. **Moat:** Proprietary attribute graph, explainable scoring, and feedback-to-action loop.) Tj
+1 0 0 1 54 551 Tm
+(5. **Monetization:** SaaS intelligence + placements + campaign tools.) Tj
+1 0 0 1 54 536 Tm
+(6. **Scale path:** City expansion + multi-location operator expansion.) Tj
+1 0 0 1 54 521 Tm
+() Tj
+1 0 0 1 54 506 Tm
+(---) Tj
+1 0 0 1 54 491 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 473 Td
+(10\) GUARDRAILS & RISKS TO MANAGE NOW) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 449 Tm
+(  ? Do not imply real-time when data is periodic; be explicit with freshness labels.) Tj
+1 0 0 1 54 434 Tm
+(  ? Keep explainability readable \(operators need plain language, not model jargon\).) Tj
+1 0 0 1 54 419 Tm
+(  ? Add strong QA for social asset URLs before scheduling.) Tj
+1 0 0 1 54 404 Tm
+(  ? Ensure lockfiles are backed by persistent scheduling records to avoid ghost duplicates.) Tj
+1 0 0 1 54 389 Tm
+() Tj
+1 0 0 1 54 374 Tm
+(---) Tj
+1 0 0 1 54 359 Tm
+() Tj
+ET
+BT
+/F2 13 Tf
+0.950 0.440 0.120 rg
+54 341 Td
+(11\) RECOMMENDED NEXT DELIVERABLES) Tj
+ET
+BT
+/F1 11 Tf
+0.280 0.300 0.340 rg
+1 0 0 1 54 317 Tm
+(1. Clickable Figma-style prototype for Gate 1 + Gate 2 screens.) Tj
+1 0 0 1 54 302 Tm
+(2. A/B copy set for B2C vs B2B landing paths.) Tj
+1 0 0 1 54 287 Tm
+(3. 30-day channel calendar \(LinkedIn/IG/X/Pinterest\).) Tj
+1 0 0 1 54 272 Tm
+(4. Pilot sales one-pager for restaurant onboarding.) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 24 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 24 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 24 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 24 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+17 0 obj
+<< /Type /Page /Parent 24 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+18 0 obj
+<< /Type /Page /Parent 24 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 8 0 R >>
+endobj
+19 0 obj
+<< /Type /Page /Parent 24 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+20 0 obj
+<< /Type /Page /Parent 24 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 10 0 R >>
+endobj
+21 0 obj
+<< /Type /Page /Parent 24 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+22 0 obj
+<< /Type /Page /Parent 24 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 12 0 R >>
+endobj
+23 0 obj
+<< /Type /Pages /Kids [13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R] /Count 10 >>
+endobj
+24 0 obj
+<< /Type /Catalog /Pages 23 0 R >>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000000160 00000 n 
+0000003680 00000 n 
+0000006853 00000 n 
+0000009936 00000 n 
+0000012900 00000 n 
+0000016954 00000 n 
+0000021104 00000 n 
+0000024137 00000 n 
+0000027220 00000 n 
+0000029974 00000 n 
+0000032223 00000 n 
+0000032361 00000 n 
+0000032499 00000 n 
+0000032637 00000 n 
+0000032775 00000 n 
+0000032913 00000 n 
+0000033051 00000 n 
+0000033189 00000 n 
+0000033328 00000 n 
+0000033467 00000 n 
+0000033606 00000 n 
+0000033729 00000 n 
+trailer
+<< /Size 25 /Root 24 0 R >>
+startxref
+33780
+%%EOF
